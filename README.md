@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm César Zarcone</h1>
-<h3 align="center">A first year student at EPITECH Lille</h3>
+<h3 align="center">A third year student at EPITECH Lille</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyoxyde" alt="gyoxyde" /></a> </p>
-
-<h1 align="center">Hi 👋, I'm César Zarcone</h1>
-<h3 align="center">A third year student at EPITECH Lille</h3>
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **cesar.zarcone@epitech.eu**
